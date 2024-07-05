@@ -1,4 +1,4 @@
-// File: /Users/yanakolomytseva/Downloads/AlaCarte-angular/ticrou/app/page.js
+// File: /Users/yanakolomytseva/Desktop/alacarterest-react/app/page.js
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
