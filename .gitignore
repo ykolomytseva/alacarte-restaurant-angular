@@ -1,0 +1,280 @@
+# Ignoring untracked files from git status output
+
+../../../.CFUserTextEncoding
+../../../.DS_Store
+../../../.aliases
+../../../.angular-config.json
+../../../.antigen/
+../../../.bash_profile
+../../../.bashrc
+../../../.cache/
+../../../.config/
+../../../.fzf.bash
+../../../.fzf.zsh
+../../../.gitconfig
+../../../.iterm2/
+../../../.iterm2_shell_integration.zsh
+../../../.node_repl_history
+../../../.npm/
+../../../.nuxtrc
+../../../.nvm/
+../../../.p10k.zsh
+../../../.ssh/
+../../../.vscode/
+../../../.zcompdump
+../../../.zprofile
+../../../.zsh_history
+../../../.zsh_sessions/
+../../../.zshrc
+../../../.zshrc.zwc
+../../../Desktop/
+../../../Documents/
+../../.DS_Store
+../../.localized
+../../ATM.png
+../.DS_Store
+../documentation/
+../../Augmented Reality in retail and online shopping.png
+../../Bank (1).png
+../../Bank (2).png
+../../Bank.png
+../../Banking Website Landing Page Freebie (Community).zip
+../../Bitcoin advisor woman in red suit leaning on a pile of coins.png
+../../Businessman searching for an answer.png
+../../Businessman stepping on a stack of coins looking into distance.png
+../../Bussines Profit 1.png
+../../Candle Stick 1.png
+../../Connectivity 01.png
+../../Credit card.png
+../../DIY enthusiast making sewing patterns.png
+../../Family time, pizza for dinner.png
+../../Frame 30.png
+../../Frame 31.jpg
+../../Greetings in online business meeting.png
+../../Grey Gold Elegant Beauty Gift Voucher Coupon (1).png
+../../Grey Gold Elegant Beauty Gift Voucher Coupon (1).zip
+../../Grey Gold Elegant Beauty Gift Voucher Coupon (10).png
+../../Grey Gold Elegant Beauty Gift Voucher Coupon (11).png
+../../Grey Gold Elegant Beauty Gift Voucher Coupon (12).png
+../../Grey Gold Elegant Beauty Gift Voucher Coupon (13).png
+../../Grey Gold Elegant Beauty Gift Voucher Coupon (14).png
+../../Grey Gold Elegant Beauty Gift Voucher Coupon (2).png
+../../Grey Gold Elegant Beauty Gift Voucher Coupon (3).png
+../../Grey Gold Elegant Beauty Gift Voucher Coupon (4).png
+../../Grey Gold Elegant Beauty Gift Voucher Coupon (5).png
+../../Grey Gold Elegant Beauty Gift Voucher Coupon (6).png
+../../Grey Gold Elegant Beauty Gift Voucher Coupon (7).png
+../../Grey Gold Elegant Beauty Gift Voucher Coupon (8).png
+../../Grey Gold Elegant Beauty Gift Voucher Coupon (9).png
+../../Grey Gold Elegant Beauty Gift Voucher Coupon.png
+../../Grey Gold Elegant Beauty Gift Voucher Coupon.svg
+../../Grey Gold Elegant Beauty Gift Voucher Coupon.zip
+../../Grey Gold Elegant Beauty Gift Voucher Coupon/
+../../Group 1.png
+../../Group 12.png
+../../Group 1681.png
+../../Group 2.png
+../../Group 39861.png
+../../Group 45.svg
+../../Group 46 (1).png
+../../Group 46 (2).png
+../../Group 46 (3).png
+../../Group 46 (4).png
+../../Group 46 (5).png
+../../Group 46 (6).png
+../../Group 46 (7).png
+../../Group 46 (8).png
+../../Group 46.png
+../../Group 472.png
+../../Growing statistics.png
+../../Growth arrow and crypto coins next to successful businessman.png
+../../Growth.png
+../../Icon 4.png
+../../Icon 6.png
+../../Image (1).png
+../../Image (2).png
+../../Image (3).png
+../../Image (4).png
+../../Image (5).png
+../../Image (6).png
+../../Image (7).png
+../../Image (8).png
+../../Image Wrapper.png
+../../Image.png
+../../Increase.png
+../../Instagram success with good analytics.png
+../../Investment.png
+../../Logo - #18 (1).png
+../../Logo - #18 (2).png
+../../Logo - #18 (3).png
+../../Logo - #18 (4).png
+../../Logo - #18 (5).png
+../../Logo - #18.png
+../../Man speaking about statistics on an online business meeting.png
+../../Man trying to get attention of businesswoman.png
+../../Mobile trading app for investment.png
+../../Money (1).png
+../../Money 1.png
+../../Money Exchange 1.png
+../../Money Tree 1.png
+../../Money.png
+../../Office employees doing financial market analysis.png
+../../Online doctor and medical services.png
+../../Payment & Bank Logo Library (Community).zip
+../../Picture.png
+../../RobertPic.png
+../../Screenshot_2024-07-03_at_00.24.43-removebg-preview (1).png
+../../Screenshot_2024-07-03_at_00.24.43-removebg-preview.png
+../../Screenshot_2024-07-03_at_00.24.43-transformed.png
+../../White Black Minimalist Natural Light Room Zoom Background (1).png
+../../White Black Minimalist Natural Light Room Zoom Background (10).png
+../../White Black Minimalist Natural Light Room Zoom Background (11).png
+../../White Black Minimalist Natural Light Room Zoom Background (12).png
+../../White Black Minimalist Natural Light Room Zoom Background (13).png
+../../White Black Minimalist Natural Light Room Zoom Background (14).png
+../../White Black Minimalist Natural Light Room Zoom Background (15).png
+../../White Black Minimalist Natural Light Room Zoom Background (16).png
+../../White Black Minimalist Natural Light Room Zoom Background (17).png
+../../White Black Minimalist Natural Light Room Zoom Background (18).png
+../../White Black Minimalist Natural Light Room Zoom Background (19).png
+../../White Black Minimalist Natural Light Room Zoom Background (2).png
+../../White Black Minimalist Natural Light Room Zoom Background (20).png
+../../White Black Minimalist Natural Light Room Zoom Background (21).png
+../../White Black Minimalist Natural Light Room Zoom Background (22).png
+../../White Black Minimalist Natural Light Room Zoom Background (23).png
+../../White Black Minimalist Natural Light Room Zoom Background (24).png
+../../White Black Minimalist Natural Light Room Zoom Background (25).png
+../../White Black Minimalist Natural Light Room Zoom Background (26).png
+../../White Black Minimalist Natural Light Room Zoom Background (27).png
+../../White Black Minimalist Natural Light Room Zoom Background (28).png
+../../White Black Minimalist Natural Light Room Zoom Background (29).png
+../../White Black Minimalist Natural Light Room Zoom Background (3).png
+../../White Black Minimalist Natural Light Room Zoom Background (30).png
+../../White Black Minimalist Natural Light Room Zoom Background (4).png
+../../White Black Minimalist Natural Light Room Zoom Background (5).png
+../../White Black Minimalist Natural Light Room Zoom Background (6).png
+../../White Black Minimalist Natural Light Room Zoom Background (7).png
+../../White Black Minimalist Natural Light Room Zoom Background (8).png
+../../White Black Minimalist Natural Light Room Zoom Background (9).png
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (1).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (10).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (11).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (12).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (13).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (14).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (15).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (16).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (17).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (18).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (19).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (2).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (20).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (21).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (22).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (23).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (24).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (25).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (26).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (27).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (28).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (29).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (3).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (30).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (4).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (5).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (6).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (7).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (8).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)) (9).png"
+"../../White Black Minimalist Natural Light Room Zoom Background (\320\224\320\276\320\272\321\203\320\274\320\265\320\275\321\202 (A4)).png"
+../../White Black Minimalist Natural Light Room Zoom Background (A4).png
+../../White Black Minimalist Natural Light Room Zoom Background (A4).svg
+../../White Black Minimalist Natural Light Room Zoom Background (A4).zip
+../../White Black Minimalist Natural Light Room Zoom Background (A4)/
+../../White Black Minimalist Natural Light Room Zoom Background/
+        ../../a group of cheerful young people.png
+        ../../boy.png
+        ../../businessman jumping next to stack of crypto coins and growth arrow (1).png
+        ../../businessman jumping next to stack of crypto coins and growth arrow.png
+        ../../cash and coins.png
+        ../../close up of black businessman in blue suit waving goodbye.png
+        ../../close up of black businesswoman in brown suit showing thumbs up.png
+        ../../close up of black businesswoman in brown suit waving goodbye.png
+        ../../close up of businessman in black suit waving goodbye.png
+        ../../close up of businessman in dark blue suit giving thumbs up.png
+        ../../close up of businessman in dark blue suit waving goodbye (1).png
+        ../../close up of businessman in dark blue suit waving goodbye.png
+        ../../close up of businesswoman in blue suit showing thumbs up.png
+        ../../close up of businesswoman in blue suit waving goodbye.png
+        ../../close up of businesswoman in red suit with phone looking aside.png
+        ../../crackers (1).png
+        ../../crackers (1).webp
+        ../../crackers.webp
+        ../../file (1).png
+        ../../file.png
+        ../../flying banknote.png
+        ../../icon 2.png
+        ../../icon 3.png
+        ../../icon 5.png
+        ../../joyful woman raises her fists up.png
+        ../../joyful woman raising her fist up.png
+        ../../logo.png
+        ../../m-banking/
+        ../../man raising cup.png
+        ../../man with phone showing thumbs up.png
+        ../../openart-image_-xd9ertm_1719762312305_raw.jpg
+        ../../openart-image_069TSfKg_1719763609787_raw (1).jpg
+        ../../openart-image_069TSfKg_1719763609787_raw.jpg
+        ../../openart-image_1XpCq7eA_1719763418080_raw.jpg
+        ../../openart-image__Kfdo6JN_1719762412335_raw (1).jpg
+        ../../openart-image__Kfdo6JN_1719762412335_raw.jpg
+        ../../openart-image_d8ndynZS_1719762121150_raw.jpg
+        ../../openart-image_h2FdIrBp_1719763581102_raw (1).jpg
+        ../../openart-image_h2FdIrBp_1719763581102_raw.jpg
+        ../../optimized.jpg
+        ../../pexels-charlotte-may-5947008 1.png
+        ../../pexels-cottonbro-studio-3298641 2 (1).png
+        ../../pexels-cottonbro-studio-3298641 2.png
+        ../../pexels-rachel-claire-4577179 1.png
+        ../../pexels-rachel-claire-4577408 1.png
+        ../../pexels-rachel-claire-4998026 2.png
+        ../../pexels-yang-hao-10692480 1.png
+        ../../pexels-yang-hao-10692484 1.png
+        ../../pexels-yang-hao-10692491 1.png
+        ../../pexels-yang-hao-10692508 (1) 1.png
+        ../../pexels-yang-hao-10692515 1.png
+        ../../pexels-yang-hao-10692529 1 (1).png
+        ../../pexels-yang-hao-10692529 1 (2).png
+        ../../pexels-yang-hao-10692529 1.png
+        ../../pixelcut-export.jpeg
+        ../../restaurant-image1 (1).jpeg
+        ../../restaurant-image1 (2).jpeg
+        ../../restaurant-image1.jpeg
+        ../../restaurant-one/
+        ../../roberta-sorge-kp9UVn-PUac-unsplash 1 (1).png
+        ../../roberta-sorge-kp9UVn-PUac-unsplash 1.png
+        ../../themeforest-Khn3C2yQ-ticrou-restaurant-react-next-js-template.zip
+        ../../themeforest-hXx27fbt-the-zayka-multipurpose-restaurant-food-cafe-html5-template.zip
+        ../../themeforest-iiwi4P0F-arad-angular-online-banking-template.zip
+        ../../themeforest-m4iEjkAx-loxi-creative-responsive-agency-angular-template.zip
+        ../../vision-angular/
+        ../../winediner.jpeg
+        "../../\320\224\320\270\320\267\320\260\320\271\320\275 \320\261\320\265\320\267 \320\275\320\260\320\267\320\262\320\260\320\275\320\270\321\217 (1).png"
+        "../../\320\224\320\270\320\267\320\260\320\271\320\275 \320\261\320\265\320\267 \320\275\320\260\320\267\320\262\320\260\320\275\320\270\321\217 (2).png"
+        "../../\320\224\320\270\320\267\320\260\320\271\320\275 \320\261\320\265\320\267 \320\275\320\260\320\267\320\262\320\260\320\275\320\270\321\217.png"
+        ../../../Library/
+        ../../../Movies/
+        ../../../Music/
+        ../../../Pictures/
+        ../../../Public/
+        ../../../dangerous-doppler/
+        ../../../dont-forget-to-change-the-project-name/
+        ../../../localhost-key.pem
+        ../../../localhost.pem
+        ../../../my-app/
+        ../../../my-remix-app/
+        ../../../node_modules/
+        ../../../package-lock.json
+        ../../../package.json
+        ../../../personal-portfolio-website/
+        ../../../weather-app/
