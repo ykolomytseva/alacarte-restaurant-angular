@@ -50,7 +50,7 @@ export default function Home() {
                 <span className="sub-title">Testimonials</span>
                 <h2>
                   What Clients Say <br />
-                  About <span>Ticrou</span>
+                  About <span>AlaCarte</span>
                 </h2>
               </div>
               <div className="row clearfix">
