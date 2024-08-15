@@ -4,15 +4,16 @@ Welcome to AlaCarte Restaurant, a fictional project showcasing a modern dining e
 
 ## Description
 
-AlaCarte Restaurant is a React project that simulates an upscale dining establishment. All images used in this project are generated using Canva's AI tools, and all text content is fictional and created for demonstration purposes.
+AlaCarte Restaurant is a React project that simulates an upscale dining establishment. This project demonstrates how to create a sophisticated and user-friendly restaurant website. All images used in this project are generated using Canva's AI tools, and all text content is fictional and created for demonstration purposes.
 
 ## Technologies Used
 
 - **Frontend Framework:** React.js
 - **Styling Framework:** Bootstrap
-
+- **Routing:** React Router
 ## Features
 
-- Responsive design using Bootstrap grid system
-- Dynamic rendering of restaurant menu items and details
-- Interactive components for enhanced user experience
+- **Responsive Design:** Utilizes Bootstrap's grid system to ensure the site looks great on all devices, from desktops to smartphones.
+- **Dynamic Menu:** Renders restaurant menu items and details dynamically, allowing easy updates and modifications.
+- **Interactive Components:** Enhances user experience with interactive components such as modals, carousels, and form validations.
+- **Navigation:** Smooth navigation through various sections of the site using React Router.
